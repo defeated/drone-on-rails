@@ -1,4 +1,4 @@
-image: bradrydzewski/ruby:2.0.0
+image: defeated/ruby211
 
 git:
   depth: 1
