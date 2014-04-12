@@ -1,9 +1,8 @@
-image: defeated/ruby211
+image: bradrydzewski/ruby:2.0.0
 
 git:
   depth: 1
 
 script:
-  - source /etc/drone.d/rbenv.sh
   - rbenv -v
   - ruby -v
