@@ -1,4 +1,4 @@
-image: defeated/ruby211
+image: defeated/ruby211:latest
 
 git:
   depth: 1
